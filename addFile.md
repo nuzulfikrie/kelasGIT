@@ -7,4 +7,3 @@
 - ini adalah senarai pemain harimau malaya
 - 1. Mohd Faizal
 - 2. Ahmad Fauzi
-- 3. Syed Azmi
